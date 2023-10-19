@@ -1,0 +1,114 @@
+{
+  "core": {
+    "arm": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.1-v3.0-CORE.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.2-v3.0-CORE.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.0.0-v3.0-CORE.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.1.0-v3.0-CORE.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-9.0.0-v3.0-CORE.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-10.0.0-v3.0-CORE.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-11.0.0-v3.0-CORE.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.0.0-v3.0-CORE.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.1.0-v3.0-CORE.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-13.0.0-v3.0-CORE.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-14.0.0-v3.0-CORE.zip"
+    },
+    "arm64": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.1-v3.0-CORE.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.2-v3.0-CORE.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.0.0-v3.0-CORE.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.1.0-v3.0-CORE.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-9.0.0-v3.0-CORE.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-10.0.0-v3.0-CORE.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-11.0.0-v3.0-CORE.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.0.0-v3.0-CORE.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.1.0-v3.0-CORE.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-13.0.0-v3.0-CORE.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-14.0.0-v3.0-CORE.zip"
+    }
+  },
+  "mini": {
+    "arm": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.1-v3.0-MINI.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.2-v3.0-MINI.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.0.0-v3.0-MINI.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.1.0-v3.0-MINI.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-9.0.0-v3.0-MINI.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-10.0.0-v3.0-MINI.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-11.0.0-v3.0-MINI.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.0.0-v3.0-MINI.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.1.0-v3.0-MINI.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-13.0.0-v3.0-MINI.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-14.0.0-v3.0-MINI.zip"
+    },
+    "arm64": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.1-v3.0-MINI.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.2-v3.0-MINI.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.0.0-v3.0-MINI.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.1.0-v3.0-MINI.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-9.0.0-v3.0-MINI.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-10.0.0-v3.0-MINI.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-11.0.0-v3.0-MINI.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.0.0-v3.0-MINI.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.1.0-v3.0-MINI.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-13.0.0-v3.0-MINI.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-14.0.0-v3.0-MINI.zip"
+    }
+  },
+  "omni": {
+    "arm": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.1-v3.0-OMNI.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.2-v3.0-OMNI.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.0.0-v3.0-OMNI.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.1.0-v3.0-OMNI.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-9.0.0-v3.0-OMNI.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-10.0.0-v3.0-OMNI.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-11.0.0-v3.0-OMNI.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.0.0-v3.0-OMNI.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.1.0-v3.0-OMNI.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-13.0.0-v3.0-OMNI.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-14.0.0-v3.0-OMNI.zip"
+    },
+    "arm64": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.1-v3.0-OMNI.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.2-v3.0-OMNI.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.0.0-v3.0-OMNI.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.1.0-v3.0-OMNI.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-9.0.0-v3.0-OMNI.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-10.0.0-v3.0-OMNI.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-11.0.0-v3.0-OMNI.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.0.0-v3.0-OMNI.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.1.0-v3.0-OMNI.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-13.0.0-v3.0-OMNI.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-14.0.0-v3.0-OMNI.zip"
+    }
+  },
+  "roar": {
+    "arm": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.1-v3.0-ROAR.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-7.1.2-v3.0-ROAR.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.0.0-v3.0-ROAR.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-8.1.0-v3.0-ROAR.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-9.0.0-v3.0-ROAR.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-10.0.0-v3.0-ROAR.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-11.0.0-v3.0-ROAR.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.0.0-v3.0-ROAR.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-12.1.0-v3.0-ROAR.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-13.0.0-v3.0-ROAR.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm-14.0.0-v3.0-ROAR.zip"
+    },
+    "arm64": {
+      "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.1-v3.0-ROAR.zip",
+      "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-7.1.2-v3.0-ROAR.zip",
+      "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.0.0-v3.0-ROAR.zip",
+      "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-8.1.0-v3.0-ROAR.zip",
+      "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-9.0.0-v3.0-ROAR.zip",
+      "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-10.0.0-v3.0-ROAR.zip",
+      "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-11.0.0-v3.0-ROAR.zip",
+      "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.0.0-v3.0-ROAR.zip",
+      "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-12.1.0-v3.0-ROAR.zip",
+      "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-13.0.0-v3.0-ROAR.zip",
+      "14.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v3.0/BiTGApps-arm64-14.0.0-v3.0-ROAR.zip"
+    }
+  }
+}
