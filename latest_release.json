@@ -1,0 +1,26 @@
+{
+  "arm": {
+    "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-7.1.1-v2.7-CORE.zip",
+    "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-7.1.2-v2.7-CORE.zip",
+    "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-8.0.0-v2.7-CORE.zip",
+    "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-8.1.0-v2.7-CORE.zip",
+    "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-9.0.0-v2.7-CORE.zip",
+    "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-10.0.0-v2.7-CORE.zip",
+    "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-11.0.0-v2.7-CORE.zip",
+    "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-12.0.0-v2.7-CORE.zip",
+    "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-12.1.0-v2.7-CORE.zip",
+    "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm-13.0.0-v2.7-CORE.zip"
+  },
+  "arm64": {
+    "7.1.1": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-7.1.1-v2.7-CORE.zip",
+    "7.1.2": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-7.1.2-v2.7-CORE.zip",
+    "8.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-8.0.0-v2.7-CORE.zip",
+    "8.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-8.1.0-v2.7-CORE.zip",
+    "9.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-9.0.0-v2.7-CORE.zip",
+    "10.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-10.0.0-v2.7-CORE.zip",
+    "11.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-11.0.0-v2.7-CORE.zip",
+    "12.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-12.0.0-v2.7-CORE.zip",
+    "12.1.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-12.1.0-v2.7-CORE.zip",
+    "13.0.0": "https://github.com/BiTGApps/BiTGApps-Release/releases/download/v2.7/BiTGApps-arm64-13.0.0-v2.7-CORE.zip"
+  }
+}
